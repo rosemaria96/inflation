@@ -77,7 +77,6 @@ To run a single step: `python code/var_paper.py data results`, `python code/lstm
 
 ## Data sources and terms of use
 
-> **Authors: fill this in before publishing.**
 > - CPI and IIP: MoSPI, Government of India (https://mospi.gov.in).
 > - Brent crude: World Bank Commodity Price Data ("Pink Sheet"). USD/INR source: RBI exchange data.
 > - Google Trends: https://trends.google.com. Indices are relative (0–100) and aggregated; they contain no personal data. Use is subject to Google's terms of service.
@@ -95,10 +94,6 @@ A single chronological split with 30 test months gives low statistical power; on
 ## Use of AI tools
 
 The author designed the study and the original methodology. Claude (Anthropic) was used to help write the Python code; the author reviewed the output. See the paper's Declaration on Use of Generative AI.
-
-## Citation
-
-> R. M. Jose, "Inflation Forecasting in India: A Comparative Study of VAR, LSTM and Google Trends-Enhanced LSTM," 2026. [Add venue, DOI or repository release when available.]
 
 ## Licence
 
