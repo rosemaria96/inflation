@@ -1,0 +1,10 @@
+# Versions below are the ones used to produce the reported results (Python 3.13).
+# On a laptop, Python 3.11 or 3.12 is recommended because TensorFlow wheels lag behind the newest Python.
+# If a pinned version is not available for your Python, install the same package without the version number.
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+statsmodels>=0.14
+scikit-learn>=1.5
+tensorflow>=2.16
+matplotlib>=3.9

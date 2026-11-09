@@ -1,0 +1,5 @@
+,CPI,CRUDE_BRENT,USD_INR,IIP
+Cholesky: CPI last,82.95,1.37,3.33,12.35
+Cholesky: CPI first,91.04,1.28,0.63,7.06
+Generalised (order-free),84.66,1.28,2.69,11.37
+Cholesky: CPI last + month & COVID dummies,84.93,1.2,4.11,9.76
